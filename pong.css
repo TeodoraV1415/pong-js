@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+#board {
+    background-color: rgb(49, 39, 50);
+    border-top:  5px solid rgb(181, 66, 104);
+    border-bottom: 5px solid rgb(181, 66, 104);
+}
